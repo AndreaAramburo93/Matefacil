@@ -6,21 +6,14 @@ juego está diseñado para combinar diversión y educación, permitiendo que los
 estudiantes adquieran conocimientos de manera natural mientras exploran, 
 resuelven problemas y superan obstáculos. 
 
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE 
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión 
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE] 
-deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a 
-los jugadores conceptos clave de [MATERIA]. 
+El protagonista de esta aventura es Andrea Aramburo, una joven bajita con cabello castaño y ojos color marron, bastante proactiva, disciplinada y apasionada por el aprendizaje. Andrea es una psicologa que ha sido elegidoa para una misión única: Guiar a pepito en su depresión. Con su capacidad de escuchar y empatía, Andrea deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a 
+los jugadores conceptos clave de las emociones. 
 
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos 
-incluirán [TIPO DE DESAFÍOS] 
+El jugador podrá explorar escenarios, para avanzar deberá resolver problemas y responder preguntas y los desafíos incluirán situaciones de la vida cotidiana relacionadas con las emociones
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO 
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su 
-desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros. 
-Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará 
-[CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante 
-[MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de 
+Los estudiantes avanzarán mediante niveles interactios. Cada nivel representa un tipo de emocion, y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros. 
+
+Los jugadores aprenderán a reconocer emociones básicas mediante la visualización de imagenes. Se reforzará la regulación emociona a través de pequeñas dinámicas y las evaluaciones se realizarán mediante custionarios, lo que permitirá a los profesores y estudiantes medir el progreso de 
 manera efectiva. 
 
 El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para 

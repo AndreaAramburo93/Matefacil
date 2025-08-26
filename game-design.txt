@@ -1,6 +1,6 @@
-[NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATERIA] 
+matefacil es un videojuego educativo diseñado para enseñar Matematicas
 a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. 
-La historia se desarrolla en [ESCENARIO], un mundo lleno de misterios, desafíos y 
+La historia se desarrolla en bosque encantado, un mundo lleno de misterios, desafíos y 
 personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del 
 juego está diseñado para combinar diversión y educación, permitiendo que los 
 estudiantes adquieran conocimientos de manera natural mientras exploran, 
@@ -16,6 +16,6 @@ Los estudiantes avanzarán mediante niveles interactios. Cada nivel representa u
 Los jugadores aprenderán a reconocer emociones básicas mediante la visualización de imagenes. Se reforzará la regulación emociona a través de pequeñas dinámicas y las evaluaciones se realizarán mediante custionarios, lo que permitirá a los profesores y estudiantes medir el progreso de 
 manera efectiva. 
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para 
-[PLATAFORMAS]. 
-Además, se implementarán características como [CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de juego fluida y atractiva. 
+El juego se desarrollará usando JSy tendrá soporte para 
+Windows
+Además, se implementarán características como UX y UI para garantizar una experiencia de juego fluida y atractiva. 
